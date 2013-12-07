@@ -1,5 +1,5 @@
 require 'cgi'
-require 'yaml'
+#require 'yaml'
 require 'monitor'
 
 module Debugger
