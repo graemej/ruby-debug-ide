@@ -9,6 +9,7 @@ else
 end
 
 require 'ruby-debug-ide/version'
+require 'ruby-debug-ide/xml_printer'
 require 'ruby-debug-ide/ide_processor'
 require 'ruby-debug-ide/event_processor'
 
